@@ -28,4 +28,9 @@ Este proyecto contiene scripts de automatización para probar una aplicación we
 ## Archivo principal
 
 1. **Main.class**: Esta clase se ejecuta, debido a que es la clase principal, del proyecto.
-2. **SignIn**: Clase que contiene metodos. 
+2. **SignIn**: Clase que contiene metodos.
+
+## Archivos adcionales
+
+1. **Documentación_prueba_tecnica**: Documentación de la prueba paso a paso.
+2. **Seguimiento de issues**: Problemas que surgieron durante el desarrollo de la prueba. 
